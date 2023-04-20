@@ -1,0 +1,85 @@
+.pie_de_pagina {
+    padding: auto;
+    text-align:center;
+    background-color: #b8dcf6;
+    color:black
+    
+    
+}
+
+.contenedora {
+    display: flex;
+    margin: 5px auto;
+    justify-content: left;
+    align-items: center;
+}
+.imagena {
+    width: 500px;
+}
+
+.titulo_inicio {
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    margin-top: 10px;
+} 
+
+.otro {
+    background-image: url("../img/imagen3.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    padding-bottom: 100px;
+    width: 100vw;
+    height: 100vh;
+    
+}
+
+.caja3 {
+    text-align: center;
+    background-color: #b8dcf6;
+    color: rgb(2, 2, 2);
+}
+.caja4 {
+    border: 0px;
+    background-color: rgb(157, 154, 154);
+    padding: 90px;
+    color: aliceblue;
+}
+
+.titulo1 {
+    
+    font-family: 'Raleway', sans-serif;
+    font-size: 70px;
+    text-align: end;
+}
+.titulo2 {
+    padding-top: 0;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    text-align: end;
+}
+.contacto {
+    background-image: url("../img/imagen11.jpg");    
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size:cover;
+    color: rgb(40, 39, 39);
+    display: flex;
+    justify-content: left;
+    align-items:center;
+    
+    
+}
+.titulo3 {
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-size: 70px;
+    
+}
+.titulo4 {
+    padding-top: 0;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    text-align: left;
+}
